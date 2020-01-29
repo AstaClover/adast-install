@@ -1,5 +1,5 @@
-# rtak Masternode Setup Guide (Ubuntu 16.04)
-This guide will assist you in setting up a rtak Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
+# adast Masternode Setup Guide (Ubuntu 16.04)
+This guide will assist you in setting up a adast Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
 If you require further assistance contact the support team @ [Discord]()
 ***
@@ -101,7 +101,7 @@ If you require further assistance contact the support team @ [Discord]()
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`wget -N https://raw.githubusercontent.com/AstaClover/rtak/master/install.sh`
+`wget -N https://raw.githubusercontent.com/AstaClover/adast-install/master/install.sh`
 ***
 
 ***Step 8***
@@ -191,9 +191,9 @@ Click "File Save"
 ***step 4***
 * Check the status of your masternode within the VPS by using the command below:
 
-`rtak-cli masternode status`
+`adast-cli masternode status`
 
-`rtak-cli getinfo`
+`adast-cli getinfo`
 
 *You should see ***masternode succesfuly started***
 
