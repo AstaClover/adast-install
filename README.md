@@ -132,11 +132,11 @@ If you require further assistance contact the support team @ [Discord]()
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the rtak wallet [here](https://github.com/adeeshaaa/Adast/releases)
+* Download and install the adast wallet [here](https://github.com/adeeshaaa/Adast/releases)
 ***
 
 ***Step 2***
-* Send EXACLY **1000** rtak to a receive address within your wallet.
+* Send EXACTLY **200,000** adast to a receive address within your wallet.
 ***
 
 ***Step 3***
